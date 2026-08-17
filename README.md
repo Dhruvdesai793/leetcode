@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
