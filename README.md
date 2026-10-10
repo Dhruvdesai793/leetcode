@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhruvdesai793/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhruvdesai793/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvdesai793/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
