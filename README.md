@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvdesai793/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Dhruvdesai793/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
