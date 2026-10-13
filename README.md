@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhruvdesai793/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhruvdesai793/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -143,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
