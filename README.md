@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
+| [1791-find-center-of-star-graph](https://github.com/Dhruvdesai793/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
