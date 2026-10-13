@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhruvdesai793/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvdesai793/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdesai793/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dhruvdesai793/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhruvdesai793/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Queue
@@ -112,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dhruvdesai793/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
