@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Dhruvdesai793/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
+| [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhruvdesai793/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dhruvdesai793/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
