@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Dhruvdesai793/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
@@ -169,8 +172,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Dhruvdesai793/leetcode/tree/master/0198-house-robber) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
