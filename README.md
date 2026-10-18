@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdesai793/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dhruvdesai793/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/Dhruvdesai793/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
