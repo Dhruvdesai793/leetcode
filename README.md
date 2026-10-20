@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruvdesai793/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dhruvdesai793/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3886-sum-of-sortable-integers](https://github.com/Dhruvdesai793/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruvdesai793/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3886-sum-of-sortable-integers](https://github.com/Dhruvdesai793/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dhruvdesai793/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhruvdesai793/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
+| [3886-sum-of-sortable-integers](https://github.com/Dhruvdesai793/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruvdesai793/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Dhruvdesai793/leetcode/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
