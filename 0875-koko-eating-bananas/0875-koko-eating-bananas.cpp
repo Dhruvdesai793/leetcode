@@ -15,7 +15,7 @@ public:
         return left;
     }
     bool canEat(vector<int>& piles, int k, int h){
-        long hours =0;
+        long hours =0; // overflow error
         for(int pile: piles){
             int div = pile / k;
             hours += div;
