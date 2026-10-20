@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Dhruvdesai793/leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Dhruvdesai793/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruvdesai793/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruvdesai793/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruvdesai793/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruvdesai793/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
