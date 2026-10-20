@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhruvdesai793/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Dhruvdesai793/leetcode/tree/master/0735-asteroid-collision) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdesai793/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhruvdesai793/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dhruvdesai793/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Dhruvdesai793/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
