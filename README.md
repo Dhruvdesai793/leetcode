@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Dhruvdesai793/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruvdesai793/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhruvdesai793/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvdesai793/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Dhruvdesai793/leetcode/tree/master/0735-asteroid-collision) |
 ## Depth-First Search
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvdesai793/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
