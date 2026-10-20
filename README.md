@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Dhruvdesai793/leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Dhruvdesai793/leetcode/tree/master/0735-asteroid-collision) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruvdesai793/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruvdesai793/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -77,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Dhruvdesai793/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Dhruvdesai793/leetcode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvdesai793/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dhruvdesai793/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Dhruvdesai793/leetcode/tree/master/0735-asteroid-collision) |
 ## Depth-First Search
 |  |
 | ------- |
