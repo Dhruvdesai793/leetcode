@@ -3,12 +3,12 @@ public:
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
         vector<bool> visited(n, false);
-        int components = 0;
+        int leftOut = 0;
 
         for (int start = 0; start < n; start++) {
             if (visited[start]) continue;
 
-            components++;
+            leftOut++; // 
             stack<int> st;
             st.push(start);
             visited[start] = true;
@@ -29,6 +29,6 @@ public:
             }
         }
 
-        return n - components;
+        return n - leftOut;
     }
 };
