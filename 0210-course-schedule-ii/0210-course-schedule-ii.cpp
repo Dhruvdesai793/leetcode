@@ -8,7 +8,7 @@ public:
             int dependency = i[1], course = i[0];
             
             adj[dependency].push_back(course);
-            // we are counting ingoing edges i.e indegree;
+            // counting ingoing edges i.e indegree;
             indegree[course]++;
         }
         queue<int> q;
