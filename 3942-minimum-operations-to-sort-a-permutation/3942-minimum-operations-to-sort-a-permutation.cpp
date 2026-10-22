@@ -2,6 +2,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
+        // circle as an array
         int n = nums.size();
         int shift = 0;
 
