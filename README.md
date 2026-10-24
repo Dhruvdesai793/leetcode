@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdesai793/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvdesai793/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/Dhruvdesai793/leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Dhruvdesai793/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dhruvdesai793/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhruvdesai793/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Dhruvdesai793/leetcode/tree/master/0268-missing-number) |
+| [2409-count-days-spent-together](https://github.com/Dhruvdesai793/leetcode/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/Dhruvdesai793/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
