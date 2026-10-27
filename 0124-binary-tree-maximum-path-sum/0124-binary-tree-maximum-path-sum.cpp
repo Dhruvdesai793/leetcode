@@ -15,21 +15,18 @@ public:
     int gain(TreeNode* node){
         if(!node) return 0;
 
-
         int leftGain = gain(node->left);
         int rightGain = gain(node->right);
 
-        leftGain = max(0, leftGain);
-        rightGain = max(0, rightGain); // eliminates -ve path
+        leftGain = max(leftGain, 0);
+        rightGain = max(rightGain, 0);
 
         int pathViaNode = node->val + leftGain + rightGain;
-        best = max(best, pathViaNode);
-
+        best = max(pathViaNode, best);
 
         return node->val + max(leftGain, rightGain);
     }
     int maxPathSum(TreeNode* root) {
-        
         gain(root);
         return best;
     }
