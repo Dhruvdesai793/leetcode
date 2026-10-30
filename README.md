@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhruvdesai793/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0427-construct-quad-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhruvdesai793/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruvdesai793/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhruvdesai793/leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdesai793/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruvdesai793/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2409-count-days-spent-together](https://github.com/Dhruvdesai793/leetcode/tree/master/2409-count-days-spent-together) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruvdesai793/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dhruvdesai793/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhruvdesai793/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dhruvdesai793/leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Dhruvdesai793/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Dhruvdesai793/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dhruvdesai793/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruvdesai793/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
 | ------- |
